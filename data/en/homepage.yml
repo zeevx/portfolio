@@ -44,7 +44,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
+    link : "http://limpopo.tech/Adams_Paul_CV.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
