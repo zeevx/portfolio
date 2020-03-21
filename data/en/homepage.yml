@@ -1,0 +1,342 @@
+########################## hero area ##########################
+hero:
+  title : "I'm Adams Paul"
+
+  # animated text loop
+  occupations:
+    - "Web App Developer"
+    - "Hardware-IOT Geek"
+    - "Database Manager"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/bg1.jpg"
+
+
+  # button
+  button:
+    enable : true
+    label : "HIRE ME"
+    link : "#contact"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/slider/bg2.jpg"
+  first_name : "Adams"
+  last_name : "Paul"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/slider/bg2.jpg"
+  title : "KNOW MORE <br> ABOUT ME"
+  content : "It's Adams - Zeev, a Full Stack Web Developer
+  from Lagos, Nigeria. I am also a minor in Embedded Systems Engineering(IOT). 
+  I aim to make a difference through my creative solution.😊
+  <br>
+  I have Worked with project and teams to create user-friendly interfaces
+  and real-time problem solving application and websites for users.
+  I am really friendly, and yes i learn really fast!"
+  # button
+  button:
+    enable : true
+    label : "DOWNLOAD MY CV"
+    link : "#" # you can put your cv in static folder and give the path here.
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "EXPERIENCE"
+  experience_list:
+    # experience item loop
+    - name : "Remote - Senor Web Developer at GogoDrive Technology"
+      company : "Gogodriveconsults.com"
+      duration : "June 2019 — Present"
+      content : "We built a complete School Management Software of which we were able to deploy to a
+                number of schools. I was the team lead for the project."
+      
+    # experience item loop
+    - name : "Web Development at Hilma Aquariums"
+      company : "aquarium.com.ng"
+      duration : "2019"
+      content : "I built and deployed of the companies new website."
+      
+    # experience item loop
+    - name : "Web App Development at Quality Gadgets Hub"
+      company : "qualitygadgetshub.com"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at Genuine Phones NG"
+      company : "genuinephones.ng"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at BitCoinaire NG"
+      company : "bitcoinaire.tech"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at Blue Flexi Farms NG"
+      company : "blueflexifarms.com.ng"
+      duration : "2019"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at Konnectify NG"
+      company : "konnectify.me"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at PayEdu NG"
+      company : "payedu.xyz"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+      # experience item loop
+    - name : "Web Development at Quality Gadgets Hub"
+      company : "qualitygadgetshub.com"
+      duration : "2020"
+      content : "I built and deployed of the companies new website."
+
+
+############################### Skill #################################
+skill:
+  enable : true
+  title : "SKILL"
+  skill_list:
+
+  # skill item loop
+    - name : "Hugo - GO Lang"
+      parcentage : "70%"
+
+    # skill item loop
+    - name : "PHP - Laravel"
+      parcentage : "98%"
+      
+    # skill item loop
+    - name : "UI/UX Designer"
+      parcentage : "70%"
+         
+    # skill item loop
+    - name : "HTML, JS and CSS"
+      parcentage : "95%"
+
+      # skill item loop
+    - name : "Flutter"
+      parcentage : "40%"
+      
+        
+    # skill item loop
+    - name : "Database Management"
+      parcentage : "95%"
+      
+    # skill item loop
+    - name : "Hardware - C++(IOT)"
+      parcentage : "70%"
+
+
+    # skill item loop
+    - name : "Wordpress"
+      parcentage : "99%"
+
+      # skill item loop
+    - name : "Digital Marketing"
+      parcentage : "60%"
+
+
+################################### Service ##############################3
+service:
+  enable : true
+  title : "SERVICES"
+  service_list:
+    # service item loop
+    - name : "Web Development"
+      image : "images/icons/web-development.png"
+      
+    # service item loop
+    - name : "UI/UX Design"
+      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+    - name : "Database Management"
+      image : "images/icons/dbms.png"
+      
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
+      
+    # service item loop
+    - name : "Digital Marketing"
+      image : "images/icons/marketing.png"
+      
+    # service item loop
+    - name : "Mobile App Development"
+      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+call_to_action:
+  enable : true
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "NEED A SERVICE?"
+  button:
+    enable : true
+    label : "SAY HELLO!"
+    link : "#contact"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : false
+  title : "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item1.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item2.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item3.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item4.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item5.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item6.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item7.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item8.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item9.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item10.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item11.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item12.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item13.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item14.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item15.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+
+################################# Testimonial #########################33
+testimonial:
+  enable : false
+  title : "TESTIMONIALS"
+  testimonial_slider:
+    # slider item loop
+    - name : "Micheal Clark"
+      image : "images/clients/client1.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Peter Parker"
+      image : "images/clients/client2.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Jessica Jones"
+      image : "images/clients/client3.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+
+######################### funfacts #############################3
+funfacts:
+  enable : true
+  funfacts_list:
+    # funfacts item loop
+    - name : "PROJECTS"
+      image : "images/icons/works.png"
+      count : "32"
+      
+    # funfacts item loop
+    - name : "HAPPY CLIENT"
+      image : "images/icons/happy.png"
+      count : "25"
+      
+    # funfacts item loop
+    - name : "FINISHED PROJECT"
+      image : "images/icons/project.png"
+      count : "25"
+    
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "SAY HELLO!"
