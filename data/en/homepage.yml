@@ -44,7 +44,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "http://limpopo.tech/Adams_Paul_CV.pdf" # you can put your cv in static folder and give the path here.
+    link : "https://drive.google.com/file/d/1OjxUD3O-bIVlmNckL61b5rmVdmy0Zck7/view?usp=sharing" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -54,57 +54,41 @@ experience:
     # experience item loop
     - name : "Remote - Senor Web Developer at GogoDrive Technology"
       company : "Gogodriveconsults.com"
-      duration : "June 2019 — Present"
+      duration : "Jan 2017 - May 2017"
       content : "We built a complete School Management Software of which we were able to deploy to a
                 number of schools. I was the team lead for the project."
       
     # experience item loop
     - name : "Web Development at Hilma Aquariums"
       company : "aquarium.com.ng"
-      duration : "2019"
+      duration : "Dec 2019"
       content : "I built and deployed the company's new website."
       
     # experience item loop
     - name : "Web App Development at Quality Gadgets Hub"
       company : "qualitygadgetshub.com"
-      duration : "2020"
+      duration : "Jan 2020"
       content : "I built and deployed the company's new website."
 
       # experience item loop
     - name : "Web Development at Genuine Phones NG"
       company : "genuinephones.ng"
-      duration : "2020"
+      duration : "Feb 2020"
       content : "I built and deployed the company's new website."
 
       # experience item loop
     - name : "Web Development at BitCoinaire NG"
       company : "bitcoinaire.tech"
-      duration : "2020"
+      duration : "March 2020"
       content : "I built and deployed the company's new website."
 
       # experience item loop
     - name : "Web Development at Blue Flexi Farms NG"
       company : "blueflexifarms.com.ng"
-      duration : "2019"
+      duration : "March 2020"
       content : "I built and deployed the company's new website."
 
-      # experience item loop
-    - name : "Web Development at Konnectify NG"
-      company : "konnectify.me"
-      duration : "2020"
-      content : "I built and deployed the company's new website."
-
-      # experience item loop
-    - name : "Web Development at PayEdu NG"
-      company : "payedu.xyz"
-      duration : "2020"
-      content : "I built and deployed the company's new website."
-
-      # experience item loop
-    - name : "Web Development at Quality Gadgets Hub"
-      company : "qualitygadgetshub.com"
-      duration : "2020"
-      content : "I built and deployed the company's new website."
+     
 
 
 ############################### Skill #################################
@@ -114,7 +98,7 @@ skill:
   skill_list:
 
   # skill item loop
-    - name : "Hugo - GO Lang"
+    - name : "SSG Hugo - GO Lang"
       parcentage : "70%"
 
     # skill item loop
@@ -123,7 +107,7 @@ skill:
       
     # skill item loop
     - name : "UI/UX Designer"
-      parcentage : "70%"
+      parcentage : "60%"
          
     # skill item loop
     - name : "HTML, JS and CSS"
@@ -131,16 +115,16 @@ skill:
 
       # skill item loop
     - name : "Flutter"
-      parcentage : "40%"
+      parcentage : "50%"
       
         
     # skill item loop
-    - name : "Database Management"
+    - name : "MySql Database Management"
       parcentage : "95%"
       
     # skill item loop
     - name : "Hardware - C++(IOT)"
-      parcentage : "70%"
+      parcentage : "50%"
 
 
     # skill item loop
